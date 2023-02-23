@@ -1,4 +1,5 @@
 version 01
 version 02
 version 03 veli kodları
+version 06
 
